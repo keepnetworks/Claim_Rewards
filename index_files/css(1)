@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=QGYsz_wNahGAdqQ43RhPfrLm4xrOcRpwuWMSgQ&skey=a19f1b3d756da88c&v=v11) format('woff2');
+}
+@font-face {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/l/font?kit=QGYsz_wNahGAdqQ43RhPfrLm4xrOcRpwuWMSgQ&skey=a19f1b3d756da88c&v=v11) format('woff2');
+}
+@font-face {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/l/font?kit=QGYsz_wNahGAdqQ43RhPfrLm4xrOcRpwuWMSgQ&skey=a19f1b3d756da88c&v=v11) format('woff2');
+}
+@font-face {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/l/font?kit=QGYsz_wNahGAdqQ43RhPfrLm4xrOcRpwuWMSgQ&skey=a19f1b3d756da88c&v=v11) format('woff2');
+}
+@font-face {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/l/font?kit=QGYsz_wNahGAdqQ43RhPfrLm4xrOcRpwuWMSgQ&skey=a19f1b3d756da88c&v=v11) format('woff2');
+}
